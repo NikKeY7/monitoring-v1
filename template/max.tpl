@@ -1,0 +1,1 @@
+Overall -> {players}/{max} - {persent}%
